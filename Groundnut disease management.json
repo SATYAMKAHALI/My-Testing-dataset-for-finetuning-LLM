@@ -1,0 +1,72 @@
+[
+    {
+        "instruction": "What is the importance of groundnut cultivation?",
+        "input": "",
+        "output": "Groundnut (Arachis hypogaea) is vital for smallholder farmers, providing food security and income. India is the largest cultivator and the second-largest producer worldwide."
+    },
+    {
+        "instruction": "What are the common challenges in groundnut cultivation?",
+        "input": "",
+        "output": "Common challenges include pests, diseases, climate conditions, and economic losses to farmers."
+    },
+    {
+        "instruction": "Describe the symptoms and impact of Early Leaf Spot in groundnuts.",
+        "input": "",
+        "output": "Early Leaf Spot, caused by Cercospora arachidicola, appears in the early growth stage. Symptoms include small brown spots on leaves, reduced photosynthesis, and yield loss."
+    },
+    {
+        "instruction": "What is Late Leaf Spot and how does it affect groundnuts?",
+        "input": "",
+        "output": "Late Leaf Spot, caused by Cercosporidium personata, affects mature plants. It leads to defoliation, weak plants, and lower seed quality."
+    },
+    {
+        "instruction": "What is Rust disease in groundnuts and what is its impact?",
+        "input": "",
+        "output": "Rust, caused by Puccinia arachidis, affects pods, fodder quality, and oil content. If not controlled early, it can significantly reduce yield."
+    },
+    {
+        "instruction": "How do nutritional deficiencies affect groundnuts?",
+        "input": "",
+        "output": "Nutritional deficiencies due to lack of essential nutrients in soil cause stunted plant growth, yellowing leaves, and poor pod development."
+    },
+    {
+        "instruction": "What is the impact of Root-Knot Nematodes on groundnuts?",
+        "input": "",
+        "output": "Root-Knot Nematodes infest roots, causing swelling, reducing nutrient uptake, leading to wilting and lower pod production."
+    },
+    {
+        "instruction": "What factors contribute to disease spread in groundnuts?",
+        "input": "",
+        "output": "Factors include high humidity and warm temperatures, late disease diagnosis, limited access to disease-resistant cultivars, and lack of early warning systems."
+    },
+    {
+        "instruction": "What are the recommended disease prevention strategies for groundnuts?",
+        "input": "",
+        "output": "Recommendations include growing disease-resistant varieties, using crop rotation (e.g., alternating with maize or sorghum), and maintaining proper field hygiene by removing infected plant debris."
+    },
+    {
+        "instruction": "What are the Integrated Pest and Disease Management strategies for groundnuts?",
+        "input": "",
+        "output": "Strategies include using biocontrol agents like Trichoderma fungus, applying copper-based fungicides for leaf spot control, and introducing natural predators like predatory beetles to manage root-knot nematodes."
+    },
+    {
+        "instruction": "How can soil and nutrient management improve groundnut farming?",
+        "input": "",
+        "output": "Soil testing before planting helps determine nutrient deficiencies. Balanced fertilization with NPK and micronutrients like calcium and boron, along with organic amendments like compost, improves soil health."
+    },
+    {
+        "instruction": "Why is regular field monitoring important in groundnut farming?",
+        "input": "",
+        "output": "Weekly field inspections help identify disease symptoms early, sticky traps monitor insect vectors, and documenting disease occurrences helps track seasonal patterns."
+    },
+    {
+        "instruction": "How can farmers adapt to climate change in groundnut farming?",
+        "input": "",
+        "output": "Climate adaptation strategies include using mulching to retain soil moisture, adjusting sowing dates based on weather forecasts, and improving field drainage to prevent fungal infections."
+    },
+    {
+        "instruction": "Summarize the conclusion on groundnut disease management.",
+        "input": "",
+        "output": "Groundnut farmers face challenges from disease outbreaks, pests, and climate stress. To improve productivity, early detection, disease-resistant varieties, soil health management, and climate adaptation must be prioritized."
+    }
+]

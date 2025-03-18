@@ -1,0 +1,122 @@
+[
+    {
+        "instruction": "Describe the characteristics of Jowar Millet.",
+        "input": "",
+        "output": {
+            "Description": "A sorghum hybrid that matures earlier than the market variety (CSH 30) before inclement weather sets in.",
+            "Disease_Resistance": {
+                "Total": 5,
+                "Resistance_Type": {
+                    "Fully_Resistant": "Most diseases",
+                    "Moderately_Resistant": "One disease"
+                }
+            },
+            "Expert_Opinion": {
+                "Name": "Mithlesh Kumar",
+                "Institution": "Agriculture University, Jodhpur",
+                "Statement": "Climate-resilient alternatives like millet, quinoa, and amaranth could secure food production."
+            }
+        }
+    },
+    {
+        "instruction": "What is the breeding methodology for climate-resilient crops?",
+        "input": "",
+        "output": {
+            "Process": [
+                "Crossbreeding plants with natural resistance from genebanks.",
+                "Selecting resistant offspring.",
+                "Testing in controlled disease nurseries."
+            ],
+            "Importance": {
+                "Statement": "In a changing climate, it is uncertain which disease might strike, so multi-disease resistant crops are vital.",
+                "Scientist": {
+                    "Name": "Janila Pasupuleti",
+                    "Position": "Crop breeding leader and principal scientist",
+                    "Institution": "International Crops Research Institute for the Semi-Arid Tropics (ICRISAT)"
+                }
+            }
+        }
+    },
+    {
+        "instruction": "Explain the features of the Amaranth variety Jodhpur Rajgira 2.",
+        "input": "",
+        "output": {
+            "Breeding_Method": "Pureline selection",
+            "Key_Features": [
+                "High grain yield",
+                "Biofortification",
+                "Climate resilience",
+                "Superior fat, protein, and lysine content",
+                "Withstands temperature fluctuations",
+                "Requires less water than mainstream crops"
+            ],
+            "Testing_Period": "2021-2023",
+            "Approval": {
+                "Status": "Approved for release",
+                "Regions": 7,
+                "Expert": {
+                    "Name": "Mithlesh Kumar"
+                }
+            }
+        }
+    },
+    {
+        "instruction": "What are the benefits of low phosphorus-tolerant rice?",
+        "input": "",
+        "output": {
+            "Purpose": "Address phosphorus deficiency in crops, a common cause of reduced yields.",
+            "Number_of_Varieties": 3,
+            "Key_Features": [
+                "Two varieties can be direct-seeded, unlike traditional rice.",
+                "Saves 30% of water.",
+                "Cuts labour costs.",
+                "Lowers methane emissions."
+            ],
+            "Scientist": {
+                "Name": "Yadava"
+            }
+        }
+    },
+    {
+        "instruction": "Describe the characteristics of the Wheat variety HI1665 (Pusa Gehun Sharbati).",
+        "input": "",
+        "output": {
+            "Description": "Suited for dry areas and demonstrates resilience under heat stress.",
+            "Expert": {
+                "Name": "Ratan Tiwari",
+                "Position": "Director",
+                "Institution": "ICAR-Indian Institute of Wheat and Barley Research"
+            }
+        }
+    },
+    {
+        "instruction": "What are the benefits of sorghum hybrids developed at ICRISAT?",
+        "input": "",
+        "output": {
+            "Breeding_Institute": "ICRISAT",
+            "Key_Features": [
+                "Require less fertilizer.",
+                "Help reduce greenhouse gas emissions."
+            ],
+            "Scientist": {
+                "Name": "Janila Pasupuleti"
+            }
+        }
+    },
+    {
+        "instruction": "What challenges exist in replacing old crop varieties?",
+        "input": "",
+        "output": {
+            "Importance": "Replacing old crop varieties with new ones is crucial for adaptation to climate change.",
+            "Key_Challenge": "Without stronger support for formal and informal seed systems, new crop varieties may never reach farmers.",
+            "Replacement_Times": {
+                "Pigeon_Pea_Chickpea_Groundnut": "15 to 18 years",
+                "Pearl_Millet_Hybrids": "5 years"
+            },
+            "Expert": {
+                "Name": "Janila Pasupuleti",
+                "Statement": "The variety replacement rate for pearl millet hybrids is just five years."
+            }
+        }
+    }
+]

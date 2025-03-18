@@ -1,0 +1,99 @@
+[
+    {
+        "instruction": "Identify the disease affecting this plant based on symptoms.",
+        "image_path": "path/to/image.jpg",
+        "output": "The plant is affected by Bacterial Spot, caused by Xanthomonas campestris pv. vesicatoria."
+    },
+    {
+        "instruction": "What are the symptoms of Bacterial Spot?",
+        "input": "",
+        "output": {
+            "Leaves": [
+                "Small, water-soaked spots that enlarge over time",
+                "Spots turn brown to black with a yellow halo",
+                "Severe infections cause curling, wilting, and defoliation"
+            ],
+            "Fruits": [
+                "Dark, sunken, scabby lesions",
+                "Misshapen or cracked fruit"
+            ],
+            "Stems_and_Seedlings": [
+                "Black streaks or spots",
+                "Wilting and premature seedling death"
+            ]
+        }
+    },
+    {
+        "instruction": "How is Bacterial Spot spread?",
+        "input": "",
+        "output": [
+            "Contaminated seeds or transplants",
+            "Water splashes from rain or irrigation",
+            "Infected plant debris left in the soil"
+        ]
+    },
+    {
+        "instruction": "What are the treatment methods for Bacterial Spot?",
+        "input": "",
+        "output": {
+            "Cultural_Prevention": [
+                "Use disease-free seeds and transplants",
+                "Practice crop rotation (avoid planting tomatoes/peppers in the same soil for 2-3 years)",
+                "Improve air circulation",
+                "Water smartly with drip irrigation",
+                "Sanitize tools and hands"
+            ],
+            "Biological_Organic_Treatments": [
+                "Copper-based sprays",
+                "Bacillus subtilis (Biofungicide)",
+                "Neem oil"
+            ],
+            "Chemical_Control": [
+                "Copper + Mancozeb sprays",
+                "Streptomycin (for seed treatment only)"
+            ]
+        }
+    },
+    {
+        "instruction": "What are some effective organic remedies for Aphids?",
+        "input": "",
+        "output": [
+            "Neem Oil \u2013 Mix 1 tsp neem oil + 1 quart water + few drops of dish soap, spray every 5-7 days.",
+            "Soap Spray \u2013 Mix 1 tbsp liquid soap + 1 quart water, spray aphid-infested areas.",
+            "Companion Planting \u2013 Grow garlic, onions, chives, or basil to repel aphids.",
+            "Introduce Ladybugs & Lacewings \u2013 Natural predators of aphids.",
+            "Blast with Water \u2013 Spray aphids off plants using a strong jet of water."
+        ]
+    },
+    {
+        "instruction": "What are some symptoms of Downy Mildew?",
+        "input": "",
+        "output": {
+            "Appearance": "White mildew typically on the underside of leaves",
+            "Effects": [
+                "Yellow patches appear on upper leaf surfaces",
+                "Purplish-gray mold develops underneath"
+            ],
+            "Common_Hosts": [
+                "Cucumbers",
+                "Melons",
+                "Grapes",
+                "Brassicas"
+            ],
+            "Thrives_In": "Cool, humid conditions"
+        }
+    },
+    {
+        "instruction": "How can I manage Angular Leaf Spot?",
+        "input": "",
+        "output": {
+            "Organic_Remedies": [
+                "Spray Copper-Free Fungicides \u2013 Apply baking soda spray (1 tbsp baking soda + 1 quart water).",
+                "Use Chamomile Tea Spray \u2013 Natural antibacterial and antifungal treatment.",
+                "Mulch Soil \u2013 Reduces splash transmission of bacteria.",
+                "Rotate Crops \u2013 Avoid planting cucumbers or beans in the same spot yearly."
+            ],
+            "Chemical_Control": "Copper fungicide as a last resort."
+        }
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "instruction": "What are the estimated seed losses due to poor drying and storage?",
+        "input": "",
+        "output": "Internationally, present seed losses due to poor drying and storage range between 10% and 40%, depending on location, drying method, storage conditions, and species."
+    },
+    {
+        "instruction": "How does increasing atmospheric CO2 impact seed storage?",
+        "input": "",
+        "output": "Increasing atmospheric CO2 is unlikely to negatively impact seed viability in storage."
+    },
+    {
+        "instruction": "How does seed respiration contribute to CO2 levels in storage?",
+        "input": "",
+        "output": "Seeds produce CO2 as a byproduct of respiration, which accumulates in sealed containers and can help control seed storage insect pests."
+    },
+    {
+        "instruction": "What is the role of CO2 flushing in seed storage?",
+        "input": "",
+        "output": "Flushing sealed containers with CO2 has been used to control storage pests."
+    },
+    {
+        "instruction": "Why do seeds absorb more heat than ambient air temperature?",
+        "input": "",
+        "output": "Seeds are good insulators and can absorb radiant heat from the sun, often leading to seed temperatures 10\u201312\u00b0C higher than ambient air temperature."
+    },
+    {
+        "instruction": "What risks are associated with high temperatures before or during seed harvest?",
+        "input": "",
+        "output": "Elevated air temperatures and clear, cloudless days before or during seed harvest can lead to heat damage. For example, at an air temperature of 32\u00b0C, perennial ryegrass at harvest had a seed temperature of 41\u00b0C."
+    },
+    {
+        "instruction": "What strategies can help mitigate seed heat damage?",
+        "input": "",
+        "output": "If 'hot' seeds are not cooled quickly before storage or processing, storage fungi can proliferate, further heating the seed lot and degrading quality. Shading seeds from direct sunlight during drying can help prevent excessive heat damage, especially in countries where sun drying is practiced."
+    },
+    {
+        "instruction": "How does temperature impact uncontrolled seed storage?",
+        "input": "",
+        "output": "The effects of temperature on uncontrolled seed storage have been well documented."
+    },
+    {
+        "instruction": "What is the general rule regarding temperature and seed storage life?",
+        "input": "",
+        "output": "For seed at moisture contents between 50 mg/g and 140 mg/g, storage life is typically doubled with every 5\u00b0C decrease in storage temperature."
+    },
+    {
+        "instruction": "How do high temperatures impact seed storage life?",
+        "input": "",
+        "output": "Increased ambient temperatures may reduce seed storage life."
+    },
+    {
+        "instruction": "What role does humidity play in seed storage?",
+        "input": "",
+        "output": "Seeds are hygroscopic, meaning they exchange water with surrounding air until equilibrium moisture content is reached."
+    },
+    {
+        "instruction": "How does temperature affect relative humidity in seed storage?",
+        "input": "",
+        "output": "In temperate environments, the water-holding capacity of air is temperature-dependent, causing relative humidity (RH) to decrease as temperature increases."
+    },
+    {
+        "instruction": "Can higher temperatures benefit seed storage?",
+        "input": "",
+        "output": "Higher air temperatures may help prevent seed moisture content in uncontrolled storage from rising to unsafe levels."
+    }
+]

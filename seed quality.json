@@ -1,0 +1,37 @@
+[
+    {
+        "instruction": "What are the effects of elevated CO2 and temperature on seed quality?",
+        "input": "",
+        "output": "The effects of elevated CO2 and temperature on seed quality have been extensively reviewed. Elevated CO2 can lead to variability in seed mass and germination, while high temperatures may accelerate seed growth rate and reduce seed filling duration."
+    },
+    {
+        "instruction": "How does elevated CO2 affect seed mass?",
+        "input": "",
+        "output": "Seed mass responses to elevated CO2 are highly variable, both among and within species. Legumes show greater increases in seed mass compared to non-legumes. However, increased seed mass may result in a decreased nitrogen concentration in non-legumes."
+    },
+    {
+        "instruction": "What impact does temperature have on seed mass?",
+        "input": "",
+        "output": "Increasing temperature may decrease seed mass due to an accelerated seed growth rate and reduced seed filling duration. However, lower seed mass does not necessarily reduce seed germination or vigour."
+    },
+    {
+        "instruction": "How does elevated CO2 influence seed germination?",
+        "input": "",
+        "output": "Seed germination in response to elevated CO2 varies among species. A change in the carbon/nitrogen ratio may reduce seed protein content, limiting seed viability. Elevated CO2 also increases ethylene production, which can promote germination."
+    },
+    {
+        "instruction": "What are the effects of high temperature stress on seed germination?",
+        "input": "",
+        "output": "High temperature stress before seeds reach physiological maturity can reduce germination by inhibiting the plant\u2019s ability to supply the necessary assimilates for germination. It can also cause physiological damage, leading to loss of seed viability."
+    },
+    {
+        "instruction": "Does elevated CO2 affect seed vigour?",
+        "input": "",
+        "output": "Nothing is known about the effects of elevated CO2 on seed vigour."
+    },
+    {
+        "instruction": "How does high temperature impact seed vigour?",
+        "input": "",
+        "output": "Seed vigour can be significantly reduced by high temperature stress both before and after physiological maturity. High temperatures induce or increase physiological deterioration, and short periods of high temperature stress at critical stages of seed development can reduce seed vigour."
+    }
+]

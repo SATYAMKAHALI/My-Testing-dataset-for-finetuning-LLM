@@ -1,0 +1,72 @@
+[
+    {
+        "instruction": "What is Bacterial Spot and how does it affect plants?",
+        "input": "",
+        "output": "Bacterial Spot is caused by Xanthomonas species, primarily Xanthomonas campestris pv. vesicatoria. It affects tomatoes and peppers, spreading through contaminated seeds, water splashes, and infected debris. Symptoms include water-soaked spots on leaves that turn brown with yellow halos, dark sunken lesions on fruits, and black streaks on stems. Prevention includes using disease-free seeds, crop rotation, improved air circulation, and copper-based sprays."
+    },
+    {
+        "instruction": "What are the symptoms of Bacterial Blight?",
+        "input": "",
+        "output": "Bacterial Blight is caused by Xanthomonas or Pseudomonas species and spreads through contaminated seeds, soil, and insects. Symptoms include small, water-soaked spots that turn yellow and brown, irregular lesions with halos, and dark sunken cankers on stems. Preventive measures include crop rotation, proper spacing, avoiding overhead watering, and applying copper-based sprays."
+    },
+    {
+        "instruction": "How can you identify and manage Bacterial Wilt in plants?",
+        "input": "",
+        "output": "Bacterial Wilt, caused by Ralstonia solanacearum, affects crops like tomatoes and potatoes. Symptoms include wilting during the day, yellowing leaves, brown discoloration in stems, and milky-white slime when stems are placed in water. Management includes growing resistant varieties, improving soil drainage, using beneficial microbes like Trichoderma spp., and applying copper-based bactericides."
+    },
+    {
+        "instruction": "How does Black Root Rot affect plant roots and what are the treatments?",
+        "input": "",
+        "output": "Black Root Rot, caused by Thielaviopsis basicola, thrives in cool, wet soil and affects various crops. Symptoms include black, sunken lesions on roots, stunted growth, yellowing leaves, and brittle decaying roots. Management strategies include improving soil drainage, using beneficial microbes like Trichoderma, applying compost tea, and using fungicides like thiophanate-methyl."
+    },
+    {
+        "instruction": "What attracts aphids to plants and how can they be controlled?",
+        "input": "",
+        "output": "Aphids are attracted to warm environments and high nitrogen levels. They appear as small green, black, or yellow insects on leaves and stems. Symptoms include leaf curling, yellowing, and honeydew secretion leading to sooty mold. Control methods include spraying neem oil, using soap spray, companion planting with garlic, and introducing natural predators like ladybugs."
+    },
+    {
+        "instruction": "What are the symptoms of Cucumber Mosaic Virus and how can it be managed?",
+        "input": "",
+        "output": "Cucumber Mosaic Virus is spread by aphids and affects crops like cucumbers, tomatoes, and peppers. Symptoms include yellow spotting, mosaic-like patches on leaves, and stunted growth. Management includes removing infected plants, controlling aphid populations with neem oil, sanitizing tools, and planting CMV-resistant varieties."
+    },
+    {
+        "instruction": "How can Gray Mold (Botrytis) be identified and prevented?",
+        "input": "",
+        "output": "Gray Mold (Botrytis) thrives in humid conditions and appears as gray fuzzy mold on leaves, flowers, and fruit. It causes rapid wilting and decay. Prevention includes removing affected plant parts, increasing air circulation, spraying baking soda solutions, and using copper fungicide as a last resort."
+    },
+    {
+        "instruction": "What causes Downy Mildew and how can it be controlled?",
+        "input": "",
+        "output": "Downy Mildew is caused by prolonged wetness and appears as white mildew on leaf undersides. Symptoms include yellow patches on upper leaf surfaces and purplish-gray mold beneath. Control measures include pruning overcrowded plants, applying milk spray (1 part milk + 9 parts water), using hydrogen peroxide spray, and applying copper fungicide if needed."
+    },
+    {
+        "instruction": "What is Cylindrocladium disease and how can it be managed?",
+        "input": "",
+        "output": "Cylindrocladium is caused by high humidity and overhead irrigation. Symptoms include dark brown spots on leaves, root rot, and plant decline. Management involves improving soil drainage, applying cinnamon powder as a natural fungicide, using compost tea spray, and applying Trichoderma-based biofungicides."
+    },
+    {
+        "instruction": "What are the symptoms of Angular Leaf Spot and how can it be prevented?",
+        "input": "",
+        "output": "Angular Leaf Spot is caused by bacterial infection from plant debris. Symptoms include water-soaked lesions with yellow halos that dry out and form holes in leaves. Preventive measures include using baking soda spray, chamomile tea spray, mulching soil to prevent splash transmission, and rotating crops."
+    },
+    {
+        "instruction": "How does Rhizoctonia affect plants and what treatments are available?",
+        "input": "",
+        "output": "Rhizoctonia is caused by warm, moist soil conditions and affects roots and stems. Symptoms include stem rot at the soil line with reddish-brown lesions and plant collapse. Management strategies include improving drainage, applying Trichoderma biofungicides, using cinnamon powder, and conducting soil solarization with plastic sheets."
+    },
+    {
+        "instruction": "What are the signs of a Spider Mite infestation and how can they be eliminated?",
+        "input": "",
+        "output": "Spider Mites thrive in warm conditions and appear as tiny red or yellow mites with fine webbing under leaves. Symptoms include stippled, yellowing leaves that dry out. Control measures include neem oil spray, soapy water spray, releasing predatory mites, and misting plants to disrupt their life cycle."
+    },
+    {
+        "instruction": "What are the symptoms of Anthracnose and how can it be treated?",
+        "input": "",
+        "output": "Anthracnose is caused by plant debris and appears as yellowing leaf tips that turn brown. Symptoms include dark, sunken spots on fruit, stems, and leaves. Prevention includes pruning affected parts, spraying garlic extract, using compost tea, and applying Bordeaux mixture. If severe, copper-based fungicide can be used."
+    },
+    {
+        "instruction": "How can Mealybugs be controlled on plants?",
+        "input": "",
+        "output": "Mealybugs appear as small, white, cotton-like insects on stems and leaves. Symptoms include sticky honeydew secretion attracting ants. Control methods include spraying alcohol and water (1:3 ratio), introducing natural predators like ladybugs, using neem oil spray, and manually removing them with cotton swabs dipped in alcohol."
+    }
+]

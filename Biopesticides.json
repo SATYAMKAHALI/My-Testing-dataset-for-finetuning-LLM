@@ -10,24 +10,6 @@
         "output": "Biopesticides are naturally derived pest control agents sourced from microbes, plants, or nanoparticles of biological origin. Unlike synthetic pesticides, biopesticides are environment-friendly, biodegradable, and specific in action, reducing harm to non-target organisms. They have been shown to be effective in pest management without contributing to greenhouse gas emissions or chemical bioaccumulation."
     },
     {
-        "instruction": "List the main types of biopesticides and provide an example for each.",
-        "input": "",
-        "output": [
-            {
-                "type": "Microbial Pesticides",
-                "example": "Bacillus thuringiensis (Bt), which produces toxins harmful to specific insect larvae."
-            },
-            {
-                "type": "Phytopesticides",
-                "example": "Neem-based pesticides that disrupt insect growth and reproduction."
-            },
-            {
-                "type": "Nanobiopesticides",
-                "example": "Silver nanoparticles derived from plant extracts, which exhibit antifungal properties."
-            }
-        ]
-    },
-    {
         "instruction": "How do biopesticides work to control pests?",
         "input": "",
         "output": "Biopesticides act through various mechanisms, such as disrupting the pest\u2019s nervous system, altering their metabolism, inhibiting protein synthesis, and damaging cell membranes. Some biopesticides interfere with molting, prevent reproduction, or introduce lethal microbial infections to targeted pests."
